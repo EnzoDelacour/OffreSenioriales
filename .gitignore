@@ -1,0 +1,8 @@
+# Ignorer le dossier vidéo
+/assets/video/
+
+# Ignorer le dossier offres
+/documents/offres/
+
+# Ignorer le dossier templates
+/documents/templates/
